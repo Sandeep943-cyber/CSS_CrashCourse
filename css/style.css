@@ -1,0 +1,28 @@
+body{
+    background: rgb(24, 244, 244);
+}
+
+
+.title{
+    color: red;
+}
+
+.subtitle{
+    color: blue;
+}
+
+#contact{
+    color: green;
+}
+
+.image-container {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .image-container img {
+    max-width: 100%;
+    max-height: 100%;
+  }
